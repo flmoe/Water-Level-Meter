@@ -1,6 +1,6 @@
 # Water Level Meter
 
-Ultrasonic fill level sensor for underground cistern. Shows the fill height in cm and the amount of water in liters when placed above a small hole in the cistern's lid.
+Ultrasonic fill level sensor for underground cistern. Shows the amount of water in liters and the fill level in percent when placed above a small hole in the cistern's lid.
 
 ![A box with a display and switches.](/meter.webp)
 
